@@ -1,5 +1,5 @@
 # Crie uma função chamada gerar Fibonacci que receba como parâmetro a quantidade de termos que deve ser exibidos:
-from repeticao.Aulas.input import quantidade
+from repeticao.aulas.input import quantidade
 
 # O programa de verá solicitar ao usuário a quantidade de termos exibida.
 # A função deverá receber um número inteiro como parâmetro.
