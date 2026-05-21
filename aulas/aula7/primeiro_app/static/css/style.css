@@ -1,0 +1,25 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'comic-sans', 'sans-serif';
+    color: #5f9ea0;
+    background-color: #c0c0c0;
+}
+
+img {
+    
+    display: block;
+    height: 500px
+    ;
+}
+
+body div h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+body div p {
+    text-align: center;
+}
+
+body div img {
+    
+}
