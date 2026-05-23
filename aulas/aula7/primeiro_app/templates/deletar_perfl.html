@@ -1,14 +1,14 @@
 {% extends 'base.html' %}
 
-{% block title %}Criar Perfil{% endblock %}
+{% block title %}Deletar Perfil{% endblock %}
 
 {% block content %}
 <div class="container">
-    <h1>Criar Perfil</h1>
+    <h1>Deletar</h1>
     <form method="POST" enctype="multipart/form-data">
         {% csrf_token %}
         {{ form.as_p}}
-        <button type="submit" class="btn btn-primary">Criar Perfil</button>
+        <button type="submit" class="btn btn-primary">Deletar Perfil</button>
     </form>
 {% endblock %}
 </div>
